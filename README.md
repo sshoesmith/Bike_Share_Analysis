@@ -20,5 +20,5 @@ Work was performed in a jupyter notebook. The link to download the jupyter noteb
 
 http://jupyter.org/install
 
-To view the project and run the code, open the jupyter notebook file. Alternatively, to view the summary of the
-project, open the html file. 
+To view the project and run the code, open the jupyter notebook file. The project can also be viewed as the
+python file.
