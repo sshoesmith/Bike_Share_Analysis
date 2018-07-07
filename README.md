@@ -12,7 +12,7 @@ The csv files required to run the Jupyter notebook has also been uploaded into t
 
 Installation of python3 with the following additional libraries:
 - csv
-- datetim
+- datetime
 - pprint
 
 
